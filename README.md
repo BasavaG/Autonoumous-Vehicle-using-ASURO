@@ -1,4 +1,4 @@
-# Autonoumous-Vehicle-using-ASURO
+# Autonomous-Vehicle-using-ASURO
 
 1) Install WinAVR: WinAVR is a compiler,Which by deafult installs Programmers Notepad(PN). PN acts as an IDE to execute our code and compile it. 
 2) Configure "make" and "clean" file settings in programmers notepad as per "ASURO Robot guide" (http://www.arexx.com/downloads/asuro/asuro_manual_en.pdf).
